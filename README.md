@@ -31,7 +31,7 @@ NOTE: These plots look identical, as they merely highlight different methods.
 
 6. Using Matplotlib, a box and whisker plot was generated for the final tumor volume of all four treatment regimens. Potential outliers were highlighted in the plot by changing their color and style.
 
-7.A line plot of time point versus tumor volume was generated for a single mouse treated with Capomulin.
+7. A line plot of time point versus tumor volume was generated for a single mouse treated with Capomulin.
 
 8. A scatter plot was created showing mouse weight versus average tumor volume for the Capomulin treatment regimen. The correlation coefficient and a linear regression model were calculated between mouse weight and average tumor volume for the Capomulin treatment. The linear regression model was plotteed on top of the scatter plot.
 
